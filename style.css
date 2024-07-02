@@ -1,0 +1,17 @@
+/*隐藏版权*/
+.footer span,
+.footer a:nth-of-type(1) {
+  display: none;
+}
+
+/*隐藏管理字眼*/
+.footer span,
+.footer a:nth-of-type(2) {
+  display: none;
+}
+
+.ba a {
+  text-decoration: underline;
+  font-weight: bold;
+  color: #000;
+}
